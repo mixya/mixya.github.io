@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mixya.github.io/bnM/sitemap.bnM.gz
